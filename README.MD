@@ -45,3 +45,4 @@ Utilizando o passo a passo disponibilizado no notion, foi executado:
 - 🤖 1. Uso dos prompts de roteiro no `Copilot`
 - 🤖 2. Uso dos prompts de roteiro gerados no `ElevenLabs`
 - 🤖 3. Uso de prompts de artes no `Copilot`
+- 🤖 4. Edição do audio gerado no ElevenLabs no 'capcut'
